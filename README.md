@@ -45,10 +45,10 @@ Além  disso,  pode  ser  interessante, se  o  CEO  puder  visualizar  o *total 
 [Arquivo Power BI](https://github.com/luizabizoni/power-bi-studies/blob/master/dsa-cap-02/estudo_01.pbix)
 
 **Visão geral**
-<center><img src="https://github.com/luizabizoni/power-bi-studies/blob/master/dsa-cap-02/dashboard_estudo_01.PNG" alt ="Dashboard de vendas de empresa fictícia de automóveis" width="600"></center>
+<center><img src="https://github.com/luizabizoni/power-bi-studies/blob/master/dsa-cap-02/dashboard_estudo_01.PNG" alt ="Dashboard de vendas de empresa fictícia de automóveis" width="800"></center>
 
 **Visão vendas por estado**
-<center><img src="https://github.com/luizabizoni/power-bi-studies/blob/master/dsa-cap-02/dashboard_estudo_01_2.PNG" alt ="Dashboard de vendas para estado de SP" width="600"></center>
+<center><img src="https://github.com/luizabizoni/power-bi-studies/blob/master/dsa-cap-02/dashboard_estudo_01_2.PNG" alt ="Dashboard de vendas para estado de SP" width="800"></center>
 
 **Visão vendas Jaguar**
-<center><img src="https://github.com/luizabizoni/power-bi-studies/blob/master/dsa-cap-02/dashboard_estudo_01_3.PNG" alt ="Dashboard de vendas Jaguar" width="600"></center>
+<center><img src="https://github.com/luizabizoni/power-bi-studies/blob/master/dsa-cap-02/dashboard_estudo_01_3.PNG" alt ="Dashboard de vendas Jaguar" width="800"></center>

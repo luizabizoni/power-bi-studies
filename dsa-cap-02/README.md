@@ -1,4 +1,4 @@
-# Estudo de caso 1:
+# Estudo de caso
 ## Vendas da empresa XYZ Corporation International no período de 2016 a 2019
 
 **Definição do Problema de Negócio**
@@ -32,7 +32,7 @@ Seu gerente precisa das seguintes informações:
 
 Além  disso,  pode  ser  interessante, se  o  CEO  puder  visualizar  o *total  de  vendas  por estado* e se as *vendas estão acima ou abaixo da média*. Seu gerente já sabe que um assunto será abordado pelo CEO durante a apresentação. O CEO está avaliando se *continua ou não com a venda de automóveis da marca Jaguar* e ele gostaria de saber *como evoluíram as vendas de automóveis deste fabricante por ano e por estado*.
 
-## Dashboar construído
+## Dashboard construído
 [Arquivo Power BI](https://github.com/luizabizoni/power-bi-studies/blob/master/dsa-cap-02/estudo_01.pbix)
 
 **Visão geral**

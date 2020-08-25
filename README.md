@@ -18,10 +18,19 @@ O curso está disponível [aqui](https://www.datascienceacademy.com.br/course?co
 
 
 ## Estudo de caso 2:
-### Definindo Estratégias de Vendas para empresa PontoMaximo
+### Definir estratégias de vendas para empresa PontoMaximo
 
 ### Dashboard construído
 [Arquivos](https://github.com/luizabizoni/power-bi-studies/tree/master/dsa-cap-03)
 
 **Visão geral**
 <center><img src="https://github.com/luizabizoni/power-bi-studies/blob/master/dsa-cap-03/dashboard_estudo_02_02.PNG" alt ="Dashboard para definir as estratégias de vendas para rede de varejo que vende produtos eletrônicos e eletrodomésticos" width="800"></center>
+
+## Estudo de caso 3:
+### Reproduzir dashboard de vendas, custo, margem de lucro e KPI
+
+### Dashboard construído
+[Arquivos](https://github.com/luizabizoni/power-bi-studies/tree/master/dsa-cap-04)
+
+**Visão geral**
+<center><img src="https://github.com/luizabizoni/power-bi-studies/blob/master/dsa-cap-04/exercicioResolucao.PNG" alt ="Dashboard dashboard de vendas, custo, margem de lucro e KPI" width="800"></center>

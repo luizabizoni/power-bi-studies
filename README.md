@@ -34,3 +34,12 @@ O curso está disponível [aqui](https://www.datascienceacademy.com.br/course?co
 
 **Visão geral**
 <center><img src="https://github.com/luizabizoni/power-bi-studies/blob/master/dsa-cap-04/exercicioResolucao.PNG" alt ="Dashboard dashboard de vendas, custo, margem de lucro e KPI" width="800"></center>
+
+## Estudo de caso 4:
+### Reproduzir dashboard de evolução e previsão do desemprego ao longo do tempo
+
+### Dashboard construído
+[Arquivos](https://github.com/luizabizoni/power-bi-studies/tree/master/dsa-cap-05)
+
+**Visão geral**
+<center><img src="https://github.com/luizabizoni/power-bi-studies/blob/master/dsa-cap-05/Lab1/lab1_visual1.PNG" alt ="Dashboard dashboard de  de evolução e previsão do desemprego ao longo do tempo" width="800"></center>

@@ -23,7 +23,7 @@ Devem ser apresentados:
 ## Dashboard construído
 [Arquivo Power BI](https://github.com/luizabizoni/power-bi-studies/blob/master/dsa-cap-05/Lab1/lab1.pbix)
 
-### Visão comparativa**
+### Visão comparativa
 **Desemprego gênero masculino**
 <center><img src="https://github.com/luizabizoni/power-bi-studies/blob/master/dsa-cap-05/Lab1/masculino.PNG" alt ="Dashboard de evolução e previsão do desemprego para homens ao longo do tempo" width="800"></center>
 

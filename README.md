@@ -52,3 +52,12 @@ O curso está disponível [aqui](https://www.datascienceacademy.com.br/course?co
 
 **Visão geral**
 <center><img src="https://github.com/luizabizoni/power-bi-studies/blob/master/dsa-cap-06/projeto06_visual.png" alt ="Dashboard Analítico de Geolocalização e Mapeamento de Clientes por Saldo Bancário" width="800"></center>
+
+## Desafio capitulo 7:
+### Criar dashboard analítico de gastos com seguro de saúde com base nas perguntas dos diretores
+
+### Dashboard construído
+[Arquivos](https://github.com/luizabizoni/power-bi-studies/tree/master/dsa-cap-07)
+
+**Visão geral**
+<center><img src="https://github.com/luizabizoni/power-bi-studies/blob/master/dsa-cap-07/desafio07_visual.png" alt ="Dashboard Analítico de Gastos com Seguro de Saúde" width="800"></center>
